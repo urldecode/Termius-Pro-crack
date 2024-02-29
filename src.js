@@ -1,0 +1,1 @@
+const e=await this.api.bulkAccount();
